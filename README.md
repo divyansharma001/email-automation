@@ -2,6 +2,10 @@
 
 A Node.js application that combines conversational AI (Google's Gemini) with browser automation (Playwright) to send emails via Gmail. The application provides an interactive conversation interface that gathers email details and then automatically sends the email through Gmail's web interface.
 
+## 📹 Demo Video
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1100746104?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled video - Made with Clipchamp (13)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ## 🏗️ Architecture
 
 ```
