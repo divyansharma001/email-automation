@@ -1,0 +1,29 @@
+{
+  "name": "email-automator",
+  "version": "1.0.0",
+  "description": "A Node.js application that combines conversational AI with browser automation to send emails via Gmail.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node testSender.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "email",
+    "gemini",
+    "conversational",
+    "playwright",
+    "automation",
+    "gmail"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.2.15",
+    "playwright": "^1.42.1"
+  }
+}

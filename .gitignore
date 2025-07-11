@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# OAuth credentials and tokens
+credentials.json
+token.json
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Screenshots
+screenshots/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db 
